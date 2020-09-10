@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presentacion
+namespace Logica
 {
-    public class Class1
+    class Sistema
     {
     }
 }
